@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>0052f20c-5091-4e29-b910-405ea0e07185</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>m2_1.py</StartupFile>
+    <StartupFile>m2_2.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -25,6 +25,9 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="m2_1.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="m2_2.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Python_TensorFlow.py" />
