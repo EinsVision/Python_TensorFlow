@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>0052f20c-5091-4e29-b910-405ea0e07185</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>m3_2.py</StartupFile>
+    <StartupFile>m0_1.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -22,6 +22,12 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="Exersice.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="m0_1.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="m1_1_Linear_Hypothesis.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="m2_1.py">
